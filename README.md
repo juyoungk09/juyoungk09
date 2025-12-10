@@ -10,13 +10,6 @@
 
 ---
 
-## 💹 GitHub Stats
-
-![juyoungk09's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyoungk09&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyoungk09&layout=compact&theme=radical)
-
----
-
 ## 🛠️ 사용 언어 & 프레임워크
 
 <p align="left">
@@ -53,7 +46,7 @@
 
 ---
 
-## 🎯 주요 관심사
+## 주요 관심사
 
 - 알고리즘 풀기
 - 최신 프론트엔드 개발 트렌드
@@ -66,6 +59,3 @@
 - **Instagram:** [@juyoungk09](https://instagram.com/juyoungk09)
 - **Gmail:** juyoungk09@gmail.com
 
----
-
-> 끊임없이 배우고 성장하는 즐거운 개발자가 되고 싶습니다!
